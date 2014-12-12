@@ -96,10 +96,17 @@ body {
 
 img {
     margin-top: 15%;
+    margin-bottom: 25%;
 }
 
+a {
+    font-size: 24px;
+    color: #444;
+}
 
-
+a:hover {
+    color:#666;
+}
 
 
 
